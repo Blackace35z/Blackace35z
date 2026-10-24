@@ -1,22 +1,30 @@
-# Hi, I'm Abdellatif Aousaji
+# Hi, I'm AbdelAtif Aousaji 👋
 
-I build full-stack web applications and data-focused projects, from workspace and university tools to interactive analytics and applied machine-learning experiments.
+Business Information Systems graduate (Esprit School of Business, 2025) focused on **data analytics, BI and decision systems**, with the full-stack skills to ship what I analyse.
 
-## Focus areas
+📍 Tunisia · 🗣️ Arabic (native) · English (C1) · Français (B2)
+🔎 **Open to:** Data Analyst · BI Analyst · Junior Full-Stack roles
+🔗 [LinkedIn](https://www.linkedin.com/in/abdelatif-aousaji-56209b339/)
 
-- **Full-stack development:** React, TypeScript, Python, FastAPI, and relational databases.
-- **Data analytics:** Data exploration and interactive dashboards with Pandas, Dash, and Plotly.
-- **Machine-learning projects:** Classification, model evaluation, probability calibration, and fraud-pattern analysis using portfolio datasets.
+## Start here
 
-## Featured projects
+| Project | What it shows | Stack |
+|---|---|---|
+| [Mobile Money Fraud Intelligence](https://github.com/Blackace35z/mobile-money-fraud-intelligence) | Fraud EDA, SQL, leakage-aware ML, threshold trade-offs, Power BI dashboard | Python, SQL, scikit-learn, Power BI |
+| [Credit Risk Intelligence](https://github.com/Blackace35z/credit-risk-intelligence) | Default prediction, probability calibration, decision thresholds | Python |
+| [EcommerceIntelligence](https://github.com/Blackace35z/EcommerceIntelligence) | Interactive online-retail analytics dashboard | Dash, Plotly, Pandas |
+| [CampusFlow](https://github.com/Blackace35z/CampusFlow) | Full-stack university management system | React, TypeScript, FastAPI, PostgreSQL |
+| [LifeFlow](https://github.com/Blackace35z/LifeFlow) | Personal planner + budget tracker (TND) | React, TypeScript |
 
-- [SyncSpace](https://github.com/Blackace35z/SyncSpace) — A full-stack workspace and task-planning app built with React, TypeScript, FastAPI, and SQLite. In development.
-- [CampusFlow](https://github.com/Blackace35z/CampusFlow) — A university management system built with React, TypeScript, FastAPI, and PostgreSQL.
-- [EcommerceIntelligence](https://github.com/Blackace35z/EcommerceIntelligence) — An interactive online-retail analytics dashboard using Python, Pandas, Dash, and Plotly.
-- [Credit Risk Intelligence](https://github.com/Blackace35z/credit-risk-intelligence) — A portfolio study of credit-default classification, probability calibration, and decision thresholds; not for real credit decisions.
-- [Mobile Money Fraud Intelligence](https://github.com/Blackace35z/mobile-money-fraud-intelligence) — An analysis of synthetic mobile-money transactions using exploratory analysis, SQL, and machine-learning methods.
-- [Louu-Portfolio](https://github.com/Blackace35z/Louu-Portfolio) — My portfolio repository for software, data, and digital-product projects.
+*In progress:* [SyncSpace](https://github.com/Blackace35z/SyncSpace) · Portfolio: [Louu-Portfolio](https://github.com/Blackace35z/Louu-Portfolio)
 
-## Technologies
+## Toolbox
 
-React · TypeScript · Python · FastAPI · SQLite · PostgreSQL · SQL · Pandas · Dash · Plotly
+- **Data:** SQL (MySQL, Oracle) · Power BI · Python (Pandas, scikit-learn) · Dash / Plotly
+- **Development:** React · TypeScript · FastAPI · Angular · Spring Boot
+- **Business systems:** ERP / SAP exposure · Scrum
+
+## Experience
+
+- **UBCI Bank**: final-year project, project and task management app (Angular, Spring Boot, Scrum), 2025
+- **Vectorys Logistique**: ERP implementation and analytics reports (internship), 2024
